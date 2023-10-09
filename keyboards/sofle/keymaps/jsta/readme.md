@@ -7,7 +7,6 @@ Features:
 
 - Symmetric modifiers (CMD/Super, Alt/Opt, Ctrl, Shift)
 - Modes for Qwerty and Colemak support
-- Left encoder controls volume up/down/mute. Right encoder PGUP/PGDOWN.
 - Via support
 - RGB underglow support
 
@@ -17,6 +16,18 @@ Features:
 # From QMK MSYS
 qmk compile -kb sofle/rev1 -km jsta
 ```
+
+## Flashing
+
+1. Unplug the usb and audio cables
+
+2. Load up hex file in QMK Toolbox and tick Auto-flash
+
+3. Hold down the top corner key and plug in USB to first side, watch QMK Toolbox
+
+4. Repeat for other side
+
+5. Disconnect all cables, reconnect
 
 ## Links
 
