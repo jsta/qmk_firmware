@@ -21,9 +21,9 @@ qmk compile -kb sofle/rev1 -km jsta
 
 1. Unplug the usb and audio cables
 
-2. Load up hex file in QMK Toolbox and tick Auto-flash
+2. (Re)Load up hex file in QMK Toolbox and tick Auto-flash
 
-3. Hold down the top corner key and plug in USB to first side, watch QMK Toolbox
+3. Hold down the top outside corner key and plug in USB to first side, watch QMK Toolbox
 
 4. Repeat for other side
 
