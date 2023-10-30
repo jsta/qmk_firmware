@@ -17,7 +17,7 @@
 
 #pragma once
 
-/* By default left side is selected as master, 
+/* By default left side is selected as master,
 see https://docs.qmk.fm/#/feature_split_keyboard?id=setting-handedness
 for more options. */
 
@@ -46,5 +46,6 @@ for more options. */
 #        define RGBLIGHT_HUE_STEP 10
 #        define RGBLIGHT_SAT_STEP 17
 #        define RGBLIGHT_VAL_STEP 17
+#        define RGBLIGHT_DEFAULT_HUE 0.48
 #    endif
 #endif

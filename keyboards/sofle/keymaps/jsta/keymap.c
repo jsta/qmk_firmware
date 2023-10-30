@@ -110,7 +110,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  */
 
 [3] = LAYOUT(
-  _______, KC_1, KC_2, KC_3, KC_4, KC_5,                                          KC_1, KC_2, KC_3, KC_4, KC_5, KC_HOME,
+  _______, KC_1, KC_2, KC_3, KC_4, KC_5,                                          KC_6, KC_7, KC_8, KC_9, KC_0, KC_HOME,
   _______,  KC_INS,  KC_W,   KC_APP,  XXXXXXX, KC_T,                        KC_PGUP, _______,   KC_UP, _______,_______, KC_END,
   TO(0), KC_LALT,  KC_LCTL,  KC_LSFT,  XXXXXXX, KC_CAPS,                       KC_PGDN,  KC_LEFT, KC_DOWN, KC_RGHT,  _______, KC_DEL,
   KC_LSFT,KC_UNDO, KC_CUT, KC_COPY, KC_PASTE, XXXXXXX,  _______,       _______,  XXXXXXX, _______, XXXXXXX, _______,   XXXXXXX, _______,
