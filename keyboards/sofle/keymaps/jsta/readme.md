@@ -2,7 +2,6 @@
 
 Layout in [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/76efb423a46cbbea75465cb468eef7ff) and [adjust layer](http://www.keyboard-layout-editor.com/#/gists/4bcf66f922cfd54da20ba04905d56bd4)
 
-
 Features:
 
 - Symmetric modifiers (CMD/Super, Alt/Opt, Ctrl, Shift)
@@ -31,8 +30,8 @@ qmk compile -kb sofle/rev1 -km jsta
 
 ## Links
 
-* https://docs.keeb.io/reprogramming-encoders
+- [https://docs.keeb.io/reprogramming-encoders](https://docs.keeb.io/reprogramming-encoders)
 
-* https://docs.qmk.fm/#/newbs_getting_started
+- [https://docs.qmk.fm/#/newbs_getting_started](https://docs.qmk.fm/#/newbs_getting_started)
 
-* https://josefadamcik.github.io/SofleKeyboard/build_guide.html
+- [https://josefadamcik.github.io/SofleKeyboard/build_guide.html](https://josefadamcik.github.io/SofleKeyboard/build_guide.html)
