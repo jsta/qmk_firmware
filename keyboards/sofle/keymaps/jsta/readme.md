@@ -9,10 +9,13 @@ Features:
 - Via support
 - RGB underglow support
 
+## Setup (assuming Windows + WSL)
+
+Install [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
+
 ## Compilation
 
 ```shell
-# From QMK MSYS
 qmk compile -kb sofle/rev1 -km jsta
 ```
 
