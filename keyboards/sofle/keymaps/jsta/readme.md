@@ -1,13 +1,6 @@
 # VIA-enabled keymap for Sofle by jsta
 
-Layout in [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/76efb423a46cbbea75465cb468eef7ff)
-
-Features:
-
-- Symmetric modifiers (CMD/Super, Alt/Opt, Ctrl, Shift)
-- Modes for Qwerty and Colemak support
-- Via support
-- RGB underglow support
+This file lives at: `keyboards/sofle/keymaps/jsta`
 
 ## Setup (assuming Windows + WSL)
 
