@@ -14,20 +14,16 @@ qmk compile -kb sofle/rev1 -km jsta
 
 ## Flashing
 
-1. Unplug the usb and audio cables
+1. Unplug the usb cable
 
 2. (Re)Load up hex file in QMK Toolbox and tick Auto-flash
 
-3. Hold down the top outside corner key and plug in USB to first side, watch QMK Toolbox
+3. Hold down the Esc (top left) corner key and plug in USB, watch QMK Toolbox
 
-4. Repeat for other side
-
-5. Disconnect all cables, reconnect
+4. Disconnect cable, reconnect
 
 ## Links
 
-- [https://docs.keeb.io/reprogramming-encoders](https://docs.keeb.io/reprogramming-encoders)
-
 - [https://docs.qmk.fm/#/newbs_getting_started](https://docs.qmk.fm/#/newbs_getting_started)
 
-- [https://josefadamcik.github.io/SofleKeyboard/build_guide.html](https://josefadamcik.github.io/SofleKeyboard/build_guide.html)
+- [https://keebsforall.com/blogs/tutorials-for-beginners/how-to-flash-pcb-keyboard-with-qmk](https://keebsforall.com/blogs/tutorials-for-beginners/how-to-flash-pcb-keyboard-with-qmk)
