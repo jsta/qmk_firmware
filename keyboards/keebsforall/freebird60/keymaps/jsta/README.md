@@ -6,10 +6,12 @@ This file lives at: `keyboards/keebsforall/freebird60/keymaps/jsta`
 
 Install [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
 
+Install [QMK MSYS](https://github.com/qmk/qmk_distro_msys)
+
 ## Compilation
 
 ```shell
-qmk compile -kb sofle/rev1 -km jsta
+qmk compile -kb keebsforall/freebird60 -km via
 ```
 
 ## Flashing
