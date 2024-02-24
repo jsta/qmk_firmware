@@ -8,6 +8,12 @@ Install [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
 
 Install [QMK MSYS](https://github.com/qmk/qmk_distro_msys)
 
+## Development
+
+Develop in WSL, push to GH
+
+Sync QMK WSL with GH before compiling
+
 ## Compilation
 
 ```shell
