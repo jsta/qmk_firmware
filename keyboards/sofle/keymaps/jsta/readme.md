@@ -6,6 +6,14 @@ This file lives at: `keyboards/sofle/keymaps/jsta`
 
 Install [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
 
+Install [QMK WSL]
+
+## Development
+
+Develop in WSL, push to GH
+
+Pull to repo in QMK WSL before compiling
+
 ## Compilation
 
 ```shell
